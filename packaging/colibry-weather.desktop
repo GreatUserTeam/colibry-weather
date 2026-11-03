@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Weather
+Name[ru]=Погода
+Name[uk]=Погода
+Comment=Current weather and a 7-day forecast
+Comment[ru]=Текущая погода и прогноз на 7 дней
+Exec=colibry-weather
+Icon=colibry-weather
+Terminal=false
+Categories=Utility;Network;
+Keywords=weather;forecast;temperature;rain;
+StartupNotify=true
